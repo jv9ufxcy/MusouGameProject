@@ -1654,7 +1654,7 @@ MonoBehaviour:
         command:
           motionCommand: 0
           input: 1
-          state: 5
+          state: 6
           inputs: 
         followUps: 02000000
         strict: 0
@@ -1686,7 +1686,7 @@ MonoBehaviour:
         command:
           motionCommand: 0
           input: 0
-          state: 1
+          state: 2
           inputs: 
         followUps: 
         strict: 0
@@ -1740,8 +1740,8 @@ MonoBehaviour:
         strict: 0
         myRect:
           serializedVersion: 2
-          x: 24
-          y: 117
+          x: 21
+          y: 165
           width: 175
           height: 50
         activated: 1
@@ -1756,8 +1756,8 @@ MonoBehaviour:
         strict: 0
         myRect:
           serializedVersion: 2
-          x: 213
-          y: 7
+          x: 234
+          y: 16
           width: 175
           height: 50
         activated: 1
@@ -1862,7 +1862,7 @@ MonoBehaviour:
         command:
           motionCommand: 5
           input: 1
-          state: 5
+          state: 9
           inputs: 
         followUps: 
         strict: 0
@@ -2178,6 +2178,6 @@ MonoBehaviour:
     anyOrder: 0
     checkStep: 0
     angleChange: 360
-    prevAngle: 0
+    prevAngle: 90
     curAngle: 0
   currentMovelistIndex: 0
